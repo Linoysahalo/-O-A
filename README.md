@@ -49,8 +49,10 @@ Beyond keyword matching, I implemented true semantic search:
 
 ## 📸 System Previews
 
-| (./screenshots/01.png) | (./screenshots/02.png) | (./screenshots/03.png) |
-
+| | |
+| :---: | :---: |
+| ![01](./screenshots/01.png) | ![02](./screenshots/02.png) |
+| ![03](./screenshots/03.png) | ![04](./screenshots/04.png) |
 *(Refer to the `/screenshots` directory for full-resolution images)*
 
 ---
